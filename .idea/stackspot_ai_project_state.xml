@@ -9,6 +9,8 @@
               <option name="conversationId" value="01JH1000CPX6M0MANA2XEGQC23" />
               <option name="indexedFiles">
                 <map>
+                  <entry key="$PROJECT_DIR$/src/model/Calculadora.java" value="9876" />
+                  <entry key="$PROJECT_DIR$/src/service/Multiplicacao.java" value="8918" />
                   <entry key="$PROJECT_DIR$/src/service/Soma.java" value="5647" />
                   <entry key="$PROJECT_DIR$/src/service/Subtracao.java" value="7285" />
                 </map>
