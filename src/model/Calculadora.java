@@ -11,7 +11,7 @@ public class Calculadora {
         operacoes.put(operacao.getOperacao(), operacao);
     }
 
-    public int calcular(int a, int b, String operacao) {
+    public int calcular(int a, int b, String operacao) throws IllegalArgumentException {
         Operacao op = operacoes.get(operacao);
         if (op == null) {
             throw new IllegalArgumentException("Operação não suportada: " + operacao);
